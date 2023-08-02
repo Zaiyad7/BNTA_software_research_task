@@ -41,7 +41,7 @@ A class diagram is most useful in object oriented design as class diagrams show 
 
  Polymorphism also allows you to treat the different payment methods through a common interface and alllows the payment system to accomodate stuff such as new payment methods without altering the existing code. OOD also promotes a structured approach to the code that allows the developer to create a better organised system, as the program grows and evolves this approach makes it easier to maintain and extend the codebase.
 
-Objecgt oriented design allows for a payment system that can be built to be adaptable and scalable and makes it easier to implement and maintain future changes to accomodate the changes in market demands for different industries.
+Object oriented design allows for a payment system that can be built to be adaptable and scalable and makes it easier to implement and maintain future changes to accomodate the changes in market demands for different industries.
 
 
 
